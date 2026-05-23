@@ -439,7 +439,7 @@ Master's Student, Applied Statistics & Data Science
 University of Texas at Arlington
 
 
-- LinkedIn: [Your Profile](https://linkedin.com/in/ramanujakuntla)
+- LinkedIn: [Ramanuja Kuntla](https://linkedin.com/in/ramanujakuntla)
 - Email: ramanuja.uta@gmail.com
 
 ---
